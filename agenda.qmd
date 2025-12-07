@@ -1,0 +1,44 @@
+---
+title: Agenda
+toc: false
+number-sections: false
+---
+
+
+::: {.callout-note appearance="minimal"}
+
+To be ready for our sessions, please make sure to complete the following preparation steps:
+
+- [Agentic AI preparation guidline](https://kirenz.github.io/mis-agentic-ai/)
+
+:::
+
+
+## Session 1
+
+Project Kick-off & Fundamentals. 
+
+Introduction to Agentic AI, tooling, and setting up our environment.
+
+| Module | Topic |  Content |
+|---|-----|-------------------|
+| 1 | [Introduction to AI Agents](https://kirenz.github.io/agentic-ai-introduction/introduction.html) | Current State, Basics, and LLMs |
+| 2 | [Context Engineering](https://kirenz.github.io/agentic-ai-introduction/context-introduction.html) | What is Conntext Engineering?|
+| 3 | [Context Construction - Prompting](https://kirenz.github.io/agentic-ai-introduction/context-construction-prompt.html)  | System Prompt, Prompt Engineering, Success Criteria & Evals |
+| 4 | [Gems](/gemini-gems.qmd) | Creating AI assistants |
+| 5 | [Conclusion](/conclusion.qmd) | [Concrete Plan](https://docs.google.com/document/d/1L5HCSzbKjaugGcY6BqJbETum5qtGjKhG1T5xbk0AbR4/edit?usp=sharing) to apply what was learned beyond today |
+
+---
+
+[Link to anonymous survey](https://docs.google.com/forms/d/e/1FAIpQLSeyRhnIZccXmEBnnrrsZrI7gMX95yH-uI8YFrmfzKmT5jk-QQ/viewform?usp=sharing&ouid=107811604787432825206)
+
+
+<!-- 
+
+We will meet for three sessions to learn, build, and present our work.
+
+| Date | Topic |
+| -- | -- |
+| Week 3, Dec. 8 (14:00-16:00) | Project Kick-off & Fundamentals<br>Introduction to Agentic AI, tooling, and setting up our environment. |
+| Week 4, Dec. 15 (14:00-16:00) | Hands-on Development<br>Building a simple agent and exploring design patterns. |
+| Week 15, Mar. 9 (14:00-16:00) | Project Presentation<br>Final presentations, project reviews, and reflections. | -->

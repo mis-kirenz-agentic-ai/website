@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Agentic AI",
+    "section": "",
+    "text": "Welcome to the Agentic AI module of the Management Information Systems course!\nIn this part of the course, we will explore the world of Agentic Artificial Intelligence.\n\n\nView Agenda"
+  },
+  {
+    "objectID": "index.html#what-well-cover",
+    "href": "index.html#what-well-cover",
+    "title": "Agentic AI",
+    "section": "What we’ll cover",
+    "text": "What we’ll cover\n\n\nOptimize Prompts\nLearn the art of effective prompting to get better results from AI tools.\n\n\nResearch & Content Creation\nMaster research and content creation with AI assistance.\n\n\nUse AI Assistants\nCreate personalized AI assistants (“Gems”) tailored to specific needs."
+  },
+  {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
+    "title": "Agenda",
+    "section": "",
+    "text": "To be ready for our sessions, please make sure to complete the following preparation steps:\n\nAgentic AI preparation guidline"
+  },
+  {
+    "objectID": "agenda.html#session-1",
+    "href": "agenda.html#session-1",
+    "title": "Agenda",
+    "section": "Session 1",
+    "text": "Session 1\nProject Kick-off & Fundamentals.\nIntroduction to Agentic AI, tooling, and setting up our environment.\n\n\n\nModule\nTopic\nContent\n\n\n\n\n1\nIntroduction to AI Agents\nCurrent State, Basics, and LLMs\n\n\n2\nContext Engineering\nWhat is Conntext Engineering?\n\n\n3\nContext Construction - Prompting\nSystem Prompt, Prompt Engineering, Success Criteria & Evals\n\n\n4\nGems\nCreating AI assistants\n\n\n5\nConclusion\nConcrete Plan to apply what was learned beyond today\n\n\n\n\nLink to anonymous survey"
+  }
+]

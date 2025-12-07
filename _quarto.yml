@@ -1,0 +1,54 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  page-navigation: true
+  title: "Agentic AI"
+  description: ""
+  image: "/images/logo.png"
+  favicon: "/images/logo.png"
+  search:
+    type: overlay  
+  page-footer:
+    left: |
+      © [Jan Kirenz](https://www.kirenz.de/), 2025
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home     
+      # - href: agenda.qmd
+      #   text: Agenda      
+      # - href: ai-basics.qmd
+      # - href: gemini-research.qmd
+      # - href: gemini-content-creation.qmd
+      # - href: gemini-data-analysis.qmd 
+      # - href: exercises.qmd     
+      # - href: gemini-gems.qmd
+
+   
+   
+lang: en 
+
+format:
+  html:
+    toc: true
+    theme: [flatly, custom-website.scss]
+    css: custom-website.scss
+    code-copy: true
+    highlight-style: atom-one
+    code-overflow: wrap
+    author-meta: "Jan Kirenz"
+    callout-appearance: simple
+    smooth-scroll: true
+    anchor-sections: true
+    code-fold: false
+    code-tools: false
+    include-in-header:
+      - text: |
+          <script src="password.js"></script>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

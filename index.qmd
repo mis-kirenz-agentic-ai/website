@@ -1,0 +1,53 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+
+::: {.hero .text-center}
+# Agentic AI 
+
+<p style="color: black; font-size: 1.2em; margin: 1.5rem 0;"> 
+Welcome to the Agentic AI module of the Management Information Systems course!
+
+In this part of the course, we will explore the world of Agentic Artificial Intelligence. 
+</p>
+
+<div style="margin: 2rem 0;">
+[View Agenda](/agenda.qmd){.btn .btn-primary .btn-lg style="margin: 0.5rem;"} 
+</div>
+
+
+<!-- <div style="margin: 2rem 0;">
+[View Agenda](/agenda.qmd){.btn .btn-primary .btn-lg style="margin: 0.5rem;"} [Workshop Exercises](/exercises.qmd){.btn .btn-primary .btn-lg style="margin: 0.5rem;"}
+</div> -->
+
+:::
+
+
+
+## What we'll cover
+
+::: {.features}
+
+::: {.feature}
+
+### Optimize Prompts
+Learn the art of effective prompting to get better results from AI tools.
+:::
+
+::: {.feature}
+
+### Research & Content Creation
+Master research and content creation with AI assistance.
+:::
+
+
+::: {.feature}
+
+### Use AI Assistants
+Create personalized AI assistants ("Gems") tailored to specific needs.
+:::
+
+:::

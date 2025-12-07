@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
+    "title": "Agenda",
+    "section": "",
+    "text": "To be ready for our sessions, please make sure to complete the following preparation steps:\n\nAgentic AI preparation guidline"
+  },
+  {
+    "objectID": "agenda.html#session-1",
+    "href": "agenda.html#session-1",
+    "title": "Agenda",
+    "section": "Session 1",
+    "text": "Session 1\nProject Kick-off & Fundamentals.\nIntroduction to Agentic AI, tooling, and setting up our environment.\n\n\n\nModule\nTopic\nContent\n\n\n\n\n1\nIntroduction to AI Agents\nCurrent State, Basics, and LLMs\n\n\n2\nContext Engineering\nWhat is Conntext Engineering?\n\n\n3\nContext Construction - Prompting\nSystem Prompt, Prompt Engineering, Success Criteria & Evals\n\n\n\n\nLink to anonymous survey"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Agentic AI",
+    "section": "",
+    "text": "Welcome to the Agentic AI module of the Management Information Systems course!\nIn this part of the course, we will explore the basics of Agentic AI.\n\n\nView Agenda"
+  },
+  {
+    "objectID": "index.html#what-well-cover",
+    "href": "index.html#what-well-cover",
+    "title": "Agentic AI",
+    "section": "What we’ll cover",
+    "text": "What we’ll cover\n\n\nBasics of Agentic AI\nUnderstand the fundamentals of Agentic AI and its applications.\n\n\nGoogle’s Agent Development Kit (ADK)\nLearn to use Google’s ADK for building AI agents.\n\n\nBusiness intelligence with Agentic AI\nExplore how Agentic AI can enhance business intelligence."
+  }
+]

@@ -4,14 +4,14 @@
     "href": "agenda.html",
     "title": "Agenda",
     "section": "",
-    "text": "To be ready for our sessions, please make sure to complete the following preparation steps:\n\nAgentic AI preparation guidline"
+    "text": "To be ready for our sessions, please make sure to complete the following preparation steps:\n\nAgentic AI preparation guidline\nLink to anonymous survey"
   },
   {
-    "objectID": "agenda.html#session-1",
-    "href": "agenda.html#session-1",
+    "objectID": "agenda.html#project-kick-off-fundamentals",
+    "href": "agenda.html#project-kick-off-fundamentals",
     "title": "Agenda",
-    "section": "Session 1",
-    "text": "Session 1\nProject Kick-off & Fundamentals.\nIntroduction to Agentic AI, tooling, and setting up our environment.\n\n\n\nModule\nTopic\nContent\n\n\n\n\n1\nIntroduction to AI Agents\nCurrent State, Basics, and LLMs\n\n\n2\nContext Engineering\nWhat is Conntext Engineering?\n\n\n3\nContext Construction - Prompting\nSystem Prompt, Prompt Engineering, Success Criteria & Evals\n\n\n\n\nLink to anonymous survey"
+    "section": "Project Kick-off & Fundamentals",
+    "text": "Project Kick-off & Fundamentals\nIntroduction to Agentic AI, tooling, and setting up our environment.\n\n\n\nModule\nTopic\nContent\n\n\n\n\n1\nIntroduction to AI Agents\nCurrent State, Basics, and LLMs\n\n\n2\n💻 Starter repo: First Agent Tutorial\nGet started with Google’s Agent Development Kit (ADK)\n\n\n3\nContext Engineering\nWhat is Conntext Engineering?\n\n\n4\nContext Construction - Prompting\nSystem Prompt, Prompt Engineering, Success Criteria & Evals"
   },
   {
     "objectID": "index.html",
